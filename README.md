@@ -26,14 +26,6 @@ Already sized, renamed, and stripped of phone location data. To swap one (e.g. a
 | bathroom.jpg | Bathroom |
 | workspace.jpg | Sit/stand desk |
 
-## Placeholders to fill in index.html
-
-- `[MICROSOFT_FORM_LINK]` — request-to-book form share link
-- `[AIRBNB_LISTING_LINK]` — Airbnb listing URL
-- `[contact email]` — footer
-- `[X] minutes` — drive times in the Location table
-- `[time]` and `[policy]` — check-in/out and pets in Good to know
-
 ## Deploy (one time)
 
 1. In the RBS GitHub account, create a new **public** repository named `happyvalleybasecamp`.
